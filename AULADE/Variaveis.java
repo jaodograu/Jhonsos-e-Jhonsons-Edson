@@ -13,6 +13,7 @@ public class Variaveis{
         System.out.print(" minha idade e "+idade);
         System.out.print(" anos e minha altura e "+altura);
         System.out.print(" sou do sexo "+sexo);
+        System.out.println(" sou casado?: "+casado);
 
     }
 }
